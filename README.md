@@ -66,7 +66,7 @@ ticks_x  =  plt.FuncFormatter(xticks_format) # Create the formatter
 plt.gca().xaxis.set_major_formatter(ticks_x)
 plt.show()
 ```
-![Barplot](images\output.png)
+![Barplot](images/output.png)
 
 ## Insights drawn
 1. Virtual assistants account for the highest number of annual freelance openings by a significant margin. This highlights the growing reliance of businesses on remote administrative support, particularly among startups, small businesses, and solo entrepreneurs seeking cost-effective operational assistance.
